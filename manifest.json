@@ -1,0 +1,134 @@
+{
+    "dir": "ltr",
+    "lang": "Russian",
+    "name": "Top Casino",
+    "short_name": "Top Casino",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://topcasino.github.io/",
+    "background_color": "transparent",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/ee906a19-7b95-74f5-151c-2d63d8c91b52.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/60074066-d904-7ceb-43f6-5f0c6b489d57.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7b111774-beb1-35ef-eb06-e28a9cb0041a.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7367fe0b-6dbc-1174-6e51-9434b1a4057b.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/93dcb388-3cc5-0c93-fc29-5313fdd2d534.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/29c9fc55-f426-574a-eb69-f7ad3a6fc583.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/885c1f30-adbb-0659-f1b5-994147962342.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e72790c2-e177-7b04-dd42-9783fee6a097.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/38e33cd2-fb0a-447a-936a-87c79b2c6253.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ca19b70a-e5ca-4679-b7f9-b5763c5ecdc3.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d12ed11c-74cf-d3eb-1559-98d211ac7a28.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a467d118-8ce6-9c32-6cda-ea355eebf054.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3f0c63b9-69a8-ec62-f5c0-beca028c9f66.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a7b34989-3721-3f1a-4c7e-a2d546165b05.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/28bbe8fa-d268-65bc-3b44-ef79a5b10bd3.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4179441e-b534-f8a2-4757-4da61d39c09a.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e8246f95-c081-a6b2-c8f9-8219dcde7a2e.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/54a85216-e392-97f4-9f93-c196c4ee3d75.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8d9c9531-66de-5bd7-4969-9ff54a14b361.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ebcfc74c-0a23-d061-7aac-bf8854e48bc8.webPlatform.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://topcasino.github.io/",
+    "screenshots": [
+        {
+            "src": "Assets/screenshot1.png",
+            "sizes": "1280x800",
+            "type": "image/png",
+            "fileName": "Assets/screenshot1.png",
+            "generated": true
+        },
+        {
+            "src": "Assets/screenshot2.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "fileName": "Assets/screenshot2.png",
+            "generated": true
+        }
+    ]
+}
